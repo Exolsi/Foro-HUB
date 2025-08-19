@@ -230,6 +230,10 @@ Uso educativo.
 
 Esta guía te lleva **paso a paso** desde la configuración local hasta las pruebas del API con **Insomnia** usando **JWT Bearer**.
 
+
+https://github.com/user-attachments/assets/f51303c2-ad47-4841-89c2-7666f0c2c6d4
+
+
 ---
 
 ## 1) Requisitos
